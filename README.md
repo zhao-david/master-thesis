@@ -1,2 +1,2 @@
 # master-thesis
-code for scattering convolution networks and PCA networks for image processing
+Code for Scattering Convolution Networks and PCA Networks for Image Processing
